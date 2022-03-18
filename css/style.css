@@ -199,7 +199,7 @@ button:focus{
 	color: #ffffff;
 }
 .navbar-light .navbar-toggler:hover{
-	background: #cfa671;
+	background: #A84B0B;
 }
 
 /*------------------------------------------------------------------
@@ -210,7 +210,7 @@ button:focus{
 	height: 100vh;
 }
 .slides-navigation a {
-	background: #cfa671;
+	background: #A84B0B;
     position: absolute;
     height: 70px;
     width: 70px;
